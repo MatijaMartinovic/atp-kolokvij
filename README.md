@@ -33,4 +33,12 @@
 - Drugi element
 - Treci element
 
+- [ ] Item 1
+- [ ] Item 1
+- [ ] item 1
+- [ ] item 1
+- [ ] item 1
+- [ ] item 1
+
+
 ![LICENSE](LICENSE.md)
