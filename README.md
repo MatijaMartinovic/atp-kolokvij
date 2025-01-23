@@ -29,3 +29,5 @@
 - Neorganizirana lista
 - Drugi element
 - Treci element
+
+![LICENSE](LICENSE.md)
