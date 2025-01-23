@@ -19,8 +19,11 @@
 ```
 
 ![Izvor slike](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
+
 ![Izvor teksta](https://en.wikipedia.org/wiki/Git)
+
 ![Izvor koda](https://gist.github.com/forked)
+
 
 1. Prvi kolokviji
 2. Trenutno u tijeku
